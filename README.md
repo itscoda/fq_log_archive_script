@@ -19,7 +19,7 @@ Generates a log file to record the archiving process.
 To run the script, use the following command:
 
 ```bash
-git clone https://github.com/badreddinkaztaoui/fq_log_archive_script
+git clone https://github.com/itscoda/fq_log_archive_script
 cd fq_log_archive_script
 chmod +x log-archive.sh
 ./log_archive.sh <log_directory> [archive_directory] [max_age_days] [retention_days]
